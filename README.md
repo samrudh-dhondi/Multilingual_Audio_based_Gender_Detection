@@ -39,13 +39,10 @@ We also implemented deep learning approaches to better capture complex patterns 
 Models were trained on combined multilingual datasets, deep learning approaches significantly outperformed traditional machine learning models in gender classification accuracy.
 
 - XGBoost was the best among ML models with an accuracy of 96.90%.
-
 - The Ensemble Soft Voting Classifier and Random Forest also performed well, achieving 96.57% and 96.12%, respectively.
-
 - CNN emerged as the top performer overall, achieving an impressive 98.11% accuracy.
-
 - LSTM model achieved 96.22%, showcasing the strength of sequential deep architectures in multilingual voice-based gender recognition.
 
-### Prediction
-![image](https://github.com/user-attachments/assets/39de732e-dc80-4d6e-bd0c-60ba0185e3cd)
+<img src="https://github.com/user-attachments/assets/376f068e-104b-4c83-9b1b-9f2cb43496a8" alt="combined" width="500"/>
+<img src="https://github.com/user-attachments/assets/39de732e-dc80-4d6e-bd0c-60ba0185e3cd" alt="image" width="500"/>
 
