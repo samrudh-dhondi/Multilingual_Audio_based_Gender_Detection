@@ -43,6 +43,6 @@ Models were trained on combined multilingual datasets, deep learning approaches 
 - CNN emerged as the top performer overall, achieving an impressive 98.11% accuracy.
 - LSTM model achieved 96.22%, showcasing the strength of sequential deep architectures in multilingual voice-based gender recognition.
 
-<img src="https://github.com/user-attachments/assets/376f068e-104b-4c83-9b1b-9f2cb43496a8" alt="combined" width="500"/>
-<img src="https://github.com/user-attachments/assets/39de732e-dc80-4d6e-bd0c-60ba0185e3cd" alt="image" width="500"/>
+<img src="https://github.com/user-attachments/assets/376f068e-104b-4c83-9b1b-9f2cb43496a8" alt="combined" width="400"/>
+<img src="https://github.com/user-attachments/assets/39de732e-dc80-4d6e-bd0c-60ba0185e3cd" alt="image" width="300"/>
 
